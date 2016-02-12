@@ -1,0 +1,97 @@
+.header {
+	top: 0pt;
+	left: 0pt;
+	width:100%;
+	text-align:center;
+	font-family: "Trebuchet MS";
+	font-size: 30pt;
+	position:absolute;
+	background-color: #d34836;
+	color: White;
+	height: 66pt;
+	position: fixed;
+	z-index: 10;
+}
+
+h1 {
+	font-family: Helvetica;
+
+}
+.intro {
+	position: relative;
+	top: -10px;
+	
+}
+.content {
+	float: left;
+}
+.nav {
+	height: 170pt;
+	width: 140pt;
+	float:right;
+	padding: 5px;
+	margin-top: -10pt;
+	font-family: "Trebuchet MS";
+	clear:both;
+	background-color: #d2d2d2;
+}
+.nav ul li {
+	list-style: square;
+}
+body {
+	margin-top: 110pt;
+	margin-right: 26pt;
+	margin-left: 26pt;
+}
+.sentences {
+	font-family: "Trebuchet MS";
+	
+}
+
+.menu {
+	margin-top: -2pt;
+}
+.menu  li{
+	display:inline;
+	padding:60pt 60pt 60pt 60pt;
+	font-size: 14pt;
+}
+
+.image {
+	width:100pt;
+	height:110pt;
+	margin-right: 20px;
+}
+
+a:link {
+	text-decoration: none;
+	color: White;
+}
+	
+a:hover {
+	text-decoration: none;
+	font-weight:bold;
+}
+
+a:visited {
+	text-decoration:none;
+	color: White;
+}
+
+a:active {
+	color: White;
+}
+span.skill {
+	font-size:14pt;
+	font-weight:bold;
+	font-family: "Trebuchet MS";
+}
+
+.skill_list {
+	list-style: square;
+	font-family: "Trebuchet MS";
+}
+
+.skill_list li {
+	 margin-top: 5pt;
+}
