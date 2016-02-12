@@ -23,3 +23,19 @@ Code is licensed under the Apache 2.0 license.
 
 Contributers:
 Qamar Ali
+
+Part 1 Changes to HTML
+======================
+Changes made to the HTML of the Gutenberg stories used:
+- Removal of existing embedded CSS code
+
+Changes made to the style of the Gutenberg stories:
+- centralized CSS to part1.css file
+- fixed background image of old_paper.jpg applied to all stories
+- body content justify aligned
+- paragraph content is displayed using font family Georgia
+- paragraph content has a overall 15% margin applied
+- first line of all paragraph content is indented 1em
+- margin for the top and bottom of paragraph content is overrided to .5em
+- header content is center aligned
+- header content is displayed using font family Lucida Bright
